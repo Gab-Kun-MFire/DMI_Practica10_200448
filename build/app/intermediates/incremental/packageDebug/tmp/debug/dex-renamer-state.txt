@@ -1,0 +1,4 @@
+#Sun Oct 08 19:59:15 CST 2023
+base.0=C\:\\Users\\52764\\Documents\\APLICACIONES FLUTER PRUEBAS DE GITHUB\\Practica9_200448_Flutter\\practica9_200448\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
