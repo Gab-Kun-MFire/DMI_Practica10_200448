@@ -1,18 +1,13 @@
-# MovieApp-200931
+# MovieApp-200448
 ![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)
 ## Información General
 
-<<<<<<< HEAD
-- **Creado por:** Gabriel Guzman Garcia
-=======
-- **Creado por:** Gabriel Guzman Garcia Uriel Maldonado Cortez
->>>>>>> a4e6543 (practica10)
+- **Creado por:** Gabriel Guzmán Garcia
 - **Asignatura:** Desarrollo Movil Integral
 - **Grado:** 10
 - **Grupo:** A
 - **Docente:** MTI. Marco Antonio Ramirez Hernandez
 
-<<<<<<< HEAD
 ## Descripción del Proyecto
 
 Este proyecto representa una aplicación de muestra desarrollada en Flutter que muestra una página de inicio de la aplicación "MovieApp-200448". La página de inicio contiene los siguientes componentes principales:
@@ -24,16 +19,6 @@ Este archivo contiene la clase `Home`, que representa la página de inicio de la
 ### 1. AppBar (Barra de Navegación Superior)
 
 La AppBar muestra el título "MovieApp-200448" en el centro y un icono de búsqueda en la esquina derecha. Aquí se puede realizar la navegación y realizar búsquedas.
-=======
-
-## Descripción del Proyecto
-
-Este proyecto representa una aplicación de muestra desarrollada en Flutter que muestra una página de inicio de la aplicación "MovieApp-200931". La página de inicio contiene los siguientes componentes principales:
-
-### 1. AppBar (Barra de Navegación Superior)
-
-La AppBar muestra el título "MovieApp-200931" en el centro y un icono de búsqueda en la esquina derecha. Aquí se puede realizar la navegación y realizar búsquedas.
->>>>>>> a4e6543 (practica10)
 
 ### 2. Menú Lateral (Drawer)
 
@@ -55,7 +40,6 @@ La barra de navegación inferior contiene tres elementos:
 
 - **"Mejor valorados"**: Muestra películas mejor valoradas y tiene un ícono de estrella.
 
-<<<<<<< HEAD
 En esta Practica del proyeto Hicimos lo soguiente:
 
 ### `MEDIA.DART:`
@@ -88,22 +72,10 @@ En conjunto, estos archivos forman parte de la interfaz de usuario de la aplicac
 
 ## Capturas de Pantalla
 <p align="center">
-  <img src="./assets/a.jpeg" width="200" alt="Captura de Pantalla 1">
-  <img src="./assets/b.jpeg" width="200" alt="Captura de Pantalla 2">
-  <img src="./assets/c.jpeg" width="200" alt="Captura de Pantalla 2">
+  <img src="./assets/gab.jpeg" width="200" alt="Captura de Pantalla 1">
+  <img src="./assets/guz.jpeg" width="200" alt="Captura de Pantalla 2">
+  <img src="./assets/mm.jpeg" width="200" alt="Captura de Pantalla 2">
 </p>
-=======
-Además, el proyecto incluye los siguientes archivos:
-
-- **`media.dart`**: Define la clase Media, que representa películas y programas de televisión, con atributos como ID, calificación, título, imágenes, descripción, fecha de lanzamiento y géneros.
-
-- **`media_list_item.dart`**: Define el widget MediaListItem, que muestra elementos individuales de la lista de medios con una imagen de fondo, título, calificación y fecha de lanzamiento.
-
-## Capturas de Pantalla
-![Captura de Pantalla 1](./assets/a.jpeg)
-![Captura de Pantalla 2](./assets/b.jpeg)
-![Captura de Pantalla 3](./assets/c.jpeg)
->>>>>>> a4e6543 (practica10)
 
 ## Instalación
 
@@ -119,8 +91,5 @@ Para ejecutar esta aplicación en tu entorno de desarrollo, sigue estos pasos:
 
 5. Ejecuta `flutter run` para iniciar la aplicación en un emulador o dispositivo físico.
 
-<<<<<<< HEAD
 
-=======
->>>>>>> a4e6543 (practica10)
 Este proyecto es un ejemplo sólido de una página de inicio en Flutter que utiliza elementos de interfaz de usuario personalizados y estilos de fuente únicos. Si tienes alguna pregunta o necesitas ayuda adicional, no dudes en contactar al autor.
